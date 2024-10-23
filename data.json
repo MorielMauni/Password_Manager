@@ -1,10 +1,7 @@
 {
-    "amazom": {
+    "www.example.com": {
         "email": "user@gmail.com",
-        "password": "7&5!J5GulL9E&aCYn"
+        "password": "Example123"
     },
-    "ebay": {
-        "email": "user@gmail.com",
-        "password": "&77xP$M)rNIwxjA"
-    }
+
 }
